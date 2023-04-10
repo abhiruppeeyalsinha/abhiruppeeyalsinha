@@ -1,6 +1,6 @@
 ![logo](https://github.com/abhiruppeeyalsinha/abhiruppeeyalsinha/blob/main/Linkdin%20bgi.jpeg)
 <h1 align="center">Hi there, I'm Abhieup Peeyal Sinha 🧗</h1>
-<h3 align="center">Enthusiastic Artificial Intelligence & Robotics Research Engineer with 4+ year practical experience in Computer Vision, Deep Learning, Medical Image Processing,3D Image Processing,ROS(Robotic Operating System),Genetic Algorithms, Path Planning, Mobile Robotics, Python, C, C++, Embedded C, MATLAB, HTML, SQL. Scrum & Agile inspired.</h3>
+<h3 align="center">Enthusiastic Artificial Intelligence & Robotics Research Engineer with 4+ years of practical experience in Computer Vision, Deep Learning, Medical Image Processing,3D Image Processing,ROS(Robotic Operating System),Genetic Algorithms, Path Planning, Mobile Robotics, Python, C, C++, Embedded C, MATLAB, HTML, SQL. Scrum & Agile inspired.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiruppeeyalsinha&label=Profile%20views&color=0e75b6&style=flat" alt="abhiruppeeyalsinha" /> </p>
 
